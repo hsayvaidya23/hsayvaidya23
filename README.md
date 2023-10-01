@@ -23,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsayvaidya23&show_icons=true&locale=en" alt="hsayvaidya23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsayvaidya23&" alt="hsayvaidya23" /></p>
+
+<p>
+ Hacktoberfest 2023 Badges:
+</p>
+
+[![An image of @hsayvaidya23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hsayvaidya23)](https://holopin.io/@hsayvaidya23)
