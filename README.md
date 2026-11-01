@@ -37,4 +37,4 @@
   <img alt="Stack. AI: LLMs, RAG, LangGraph, LangChain, browser-use, structured outputs, evals, Langfuse, OpenTelemetry, pgvector. Backend: Python, TypeScript, FastAPI, Flask, Celery, Redis, PostgreSQL, Playwright. Infra: Azure AKS, Kubernetes, Terraform, Helmfile, Docker, GitHub Actions, Grafana, Loki, Prometheus, Sentry. Frontend: React, Next.js, Tailwind, tRPC." src="./assets/stack-light.svg" width="100%">
 </picture>
 
-<sub>⟳ Telemetry auto-updated daily by GitHub Actions · data last changed <!--sync-->2026-11-01 11:56 UTC<!--/sync--></sub>
+<sub>⟳ Telemetry auto-updated daily by GitHub Actions · data last changed <!--sync-->2026-11-01 12:18 UTC<!--/sync--></sub>
