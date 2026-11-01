@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 44" width="181" height="44" role="img" aria-label="resume.pdf">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}</style>
+<rect x="1" y="1" width="179" height="42" rx="6" fill="#05070d" stroke="#a3e635" stroke-opacity="0.75"/>
+<rect x="1" y="1" width="44" height="42" rx="6" fill="#a3e635" fill-opacity="0.16"/>
+<path d="M5 11V5H11M170 5H176V11M176 33V39H170M11 39H5V33" fill="none" stroke="#a3e635" stroke-width="1.5" stroke-opacity="0.9" stroke-linecap="square"/>
+<text x="23.0" y="28.5" font-size="18" text-anchor="middle" font-weight="700" fill="#a3e635">↓</text>
+<text x="57" y="28.5" font-size="18" fill="#e6f1ff">resume.pdf</text>
+</svg>

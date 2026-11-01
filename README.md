@@ -1,31 +1,40 @@
-<h1 align="center">Hi 👋, I'm Yash Vaidya</h1>
-<h3 align="center">A passionate Full stack web-developer from India</h3>
+<a href="https://yash-vaidya.vercel.app">
+  <picture>
+    <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-hero-dark.svg">
+    <source media="(max-width: 1011px)" srcset="./assets/mobile-hero-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img alt="Yash Vaidya, Founding AI Engineer at Sidecar: agents, browser automation, evals and LLM infra. Bangalore. In production since 2025." src="./assets/hero-light.svg" width="100%">
+  </picture>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsayvaidya23&label=Profile%20views&color=0e75b6&style=flat" alt="hsayvaidya23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsayvaidya23" alt="hsayvaidya23" /></a> </p>
-
-- 📫 How to reach me **ydvaidya23@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashvaidya_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashvaidya_23" height="30" width="40" /></a>
-<a href="https://fb.com/bobby vaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bobby vaidya" height="30" width="40" /></a>
-<a href="https://instagram.com/bobby_naldo_cr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobby_naldo_cr7" height="30" width="40" /></a>
-<a href="https://discord.gg/5312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5312" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://yash-vaidya.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-site-dark.svg"><img alt="Portfolio: yash-vaidya.vercel.app" src="./assets/chip-site-light.svg" height="36"></picture></a>
+  <a href="mailto:ydvaidya23@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-email-dark.svg"><img alt="Email: ydvaidya23@gmail.com" src="./assets/chip-email-light.svg" height="36"></picture></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashvaidya23"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-linkedin-dark.svg"><img alt="LinkedIn: yashvaidya23" src="./assets/chip-linkedin-light.svg" height="36"></picture></a>
+  <a href="https://yash-vaidya.vercel.app/Yash_Vaidya_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/chip-resume-dark.svg"><img alt="Resume (PDF)" src="./assets/chip-resume-light.svg" height="36"></picture></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<picture>
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-missions-dark.svg">
+  <source media="(max-width: 1011px)" srcset="./assets/mobile-missions-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/missions-dark.svg">
+  <img alt="Mission log. Real-Chrome browser agents: a manual workflow cut from ~20 to 6–8 min. RPA into live ERPs: −52% bot latency. Idempotent writes: 0 duplicates, 240 of 240 runs with zero drift. Deterministic core: 420+ tests. Shadow-first autonomy: 0 unsafe sends, shadow mode can't send by design. Multi-tenant AI platform: 10 clients. Also shipped: AI Podcast Clipper, Farming Goat (5,000+ users)." src="./assets/missions-light.svg" width="100%">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsayvaidya23&show_icons=true&locale=en&layout=compact" alt="hsayvaidya23" /></p>
+<picture>
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-stats-dark.svg">
+  <source media="(max-width: 1011px)" srcset="./assets/mobile-stats-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img alt="Live GitHub telemetry for the last 12 months: commits, merged pull requests, issues filed, top languages and the featured repository evidence-judge." src="./assets/stats-light.svg" width="100%">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsayvaidya23&show_icons=true&locale=en" alt="hsayvaidya23" /></p>
+<picture>
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="./assets/mobile-stack-dark.svg">
+  <source media="(max-width: 1011px)" srcset="./assets/mobile-stack-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img alt="Stack. AI: LLMs, RAG, LangGraph, LangChain, browser-use, structured outputs, evals, Langfuse, OpenTelemetry, pgvector. Backend: Python, TypeScript, FastAPI, Flask, Celery, Redis, PostgreSQL, Playwright. Infra: Azure AKS, Kubernetes, Terraform, Helmfile, Docker, GitHub Actions, Grafana, Loki, Prometheus, Sentry. Frontend: React, Next.js, Tailwind, tRPC." src="./assets/stack-light.svg" width="100%">
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsayvaidya23&" alt="hsayvaidya23" /></p>
-
-<p>
- Hacktoberfest 2023 Badges:
-</p>
-
-[![An image of @hsayvaidya23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hsayvaidya23)](https://holopin.io/@hsayvaidya23)
+<sub>⟳ Telemetry auto-updated daily by GitHub Actions · data last changed <!--sync-->2026-11-01 11:56 UTC<!--/sync--></sub>

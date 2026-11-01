@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1002" width="100%" role="img" aria-labelledby="tisml desml">
+<title id="tisml">GitHub telemetry</title>
+<desc id="desml">Last 12 months: 825 commits, 63 merged pull requests, 94 issues filed. Top languages: Python 60%, TypeScript 15%, JavaScript 10%, HTML 7%, CSS 4%, C++ 3%. Featured: evidence-judge (Python · last push 2026-10-28). Synced 2026-11-01 11:56 UTC.</desc>
+<style>
+svg,text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+text{white-space:pre}
+.t{fill:#0b1220}.d{fill:#45505f}.c{fill:#0e7490}.m{fill:#a21caf}.g{fill:#4d7c0f}
+.b{font-weight:700}
+.static{display:none}
+.scan{animation:scan 7s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.rise{animation:rise .7s ease-out both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) both}
+.growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 16s linear infinite reverse}
+.glc{animation:glc 5.5s steps(1) infinite}
+.glm{animation:glm 5.5s steps(1) infinite}
+.gls{animation:gls 5.5s steps(1) infinite}
+@keyframes scan{from{transform:translateY(-24px)}to{transform:translateY(1002px)}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes rise{from{transform:translateY(10px)}to{transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes glc{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(-5px,1px)}91%{opacity:.85;transform:translate(4px,-1px)}93%{opacity:.85;transform:translate(-2px,0)}95%{opacity:0}}
+@keyframes glm{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(5px,-1px)}91%{opacity:.85;transform:translate(-4px,2px)}93%{opacity:.85;transform:translate(3px,0)}95%{opacity:0}}
+@keyframes gls{0%,90%,100%{opacity:0;transform:none}90.5%{opacity:1;transform:translateX(14px)}92%{opacity:1;transform:translateX(-9px)}93.5%{opacity:0}}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.typed,.scanbar{display:none}
+.static{display:inline}
+}
+</style>
+<defs>
+<pattern id="gridsml" width="24" height="24" patternUnits="userSpaceOnUse">
+<path d="M24 0H0V24" fill="none" stroke="#0e7490" stroke-opacity="0.07" stroke-width="1"/>
+</pattern>
+<pattern id="linessml" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#0e7490" fill-opacity="0.035"/>
+</pattern>
+<linearGradient id="scansml" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0e7490" stop-opacity="0"/>
+<stop offset="1" stop-color="#0e7490" stop-opacity="0.04"/>
+</linearGradient>
+<radialGradient id="vigsml" cx="50%" cy="45%" r="75%">
+<stop offset="0.6" stop-color="#f5f7fb" stop-opacity="0"/>
+<stop offset="1" stop-color="#f5f7fb" stop-opacity="0.65"/>
+</radialGradient>
+<filter id="glowsml" x="-20%" y="-40%" width="140%" height="180%">
+<feGaussianBlur stdDeviation="3.2" result="b"/>
+<feComponentTransfer in="b" result="bb"><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+<feMerge><feMergeNode in="bb"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="framesml"><rect x="1" y="1" width="598" height="1000" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#framesml)">
+<rect width="600" height="1002" fill="#f5f7fb"/>
+<rect width="600" height="1002" fill="url(#gridsml)"/>
+<rect width="600" height="1002" fill="url(#linessml)"/>
+
+<text x="32" y="50" font-size="22" class="c b" letter-spacing="2">◢ TELEMETRY</text>
+<text x="568" y="50" font-size="20" text-anchor="end" class="d">@hsayvaidya23</text>
+<g class="rise" style="animation-delay:0.1s">
+<rect x="32" y="78" width="536" height="86" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<path d="M38 94V84H48M552 84H562V94M562 148V158H552M48 158H38V148" fill="none" stroke="#0e7490" stroke-width="1.5" stroke-opacity="0.9" stroke-linecap="square"/>
+<text x="54" y="128" font-size="20" class="d">COMMITS · 12 MO</text>
+<text x="546" y="136" font-size="42" text-anchor="end" class="c b" filter="url(#glowsml)">825</text>
+</g><g class="rise" style="animation-delay:0.2s">
+<rect x="32" y="176" width="536" height="86" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<path d="M38 192V182H48M552 182H562V192M562 246V256H552M48 256H38V246" fill="none" stroke="#a21caf" stroke-width="1.5" stroke-opacity="0.9" stroke-linecap="square"/>
+<text x="54" y="226" font-size="20" class="d">MERGED PRS</text>
+<text x="546" y="234" font-size="42" text-anchor="end" class="m b" filter="url(#glowsml)">63</text>
+</g><g class="rise" style="animation-delay:0.30000000000000004s">
+<rect x="32" y="274" width="536" height="86" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<path d="M38 290V280H48M552 280H562V290M562 344V354H552M48 354H38V344" fill="none" stroke="#4d7c0f" stroke-width="1.5" stroke-opacity="0.9" stroke-linecap="square"/>
+<text x="54" y="324" font-size="20" class="d">ISSUES FILED</text>
+<text x="546" y="332" font-size="42" text-anchor="end" class="g b" filter="url(#glowsml)">94</text>
+</g>
+<text x="32" y="412" font-size="20" class="d" letter-spacing="1">TOP LANGUAGES · BY BYTES</text>
+<text x="32" y="454" font-size="20" class="t">Python</text><rect x="178.4" y="441.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.30s" x="178.4" y="441.6" width="183.7" height="12" rx="2" fill="#0e7490" filter="url(#glowsml)"/><text x="568" y="454" font-size="20" text-anchor="end" class="d">60.2%</text><text x="32" y="496" font-size="20" class="t">TypeScript</text><rect x="178.4" y="483.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.42s" x="178.4" y="483.6" width="46.6" height="12" rx="2" fill="#a21caf" filter="url(#glowsml)"/><text x="568" y="496" font-size="20" text-anchor="end" class="d">15.3%</text><text x="32" y="538" font-size="20" class="t">JavaScript</text><rect x="178.4" y="525.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.54s" x="178.4" y="525.6" width="29.5" height="12" rx="2" fill="#4d7c0f" filter="url(#glowsml)"/><text x="568" y="538" font-size="20" text-anchor="end" class="d">9.7%</text><text x="32" y="580" font-size="20" class="t">HTML</text><rect x="178.4" y="567.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.66s" x="178.4" y="567.6" width="21.5" height="12" rx="2" fill="#0e7490" filter="url(#glowsml)"/><text x="568" y="580" font-size="20" text-anchor="end" class="d">7.0%</text><text x="32" y="622" font-size="20" class="t">CSS</text><rect x="178.4" y="609.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.78s" x="178.4" y="609.6" width="12.5" height="12" rx="2" fill="#a21caf" filter="url(#glowsml)"/><text x="568" y="622" font-size="20" text-anchor="end" class="d">4.1%</text><text x="32" y="664" font-size="20" class="t">C++</text><rect x="178.4" y="651.6" width="305.2" height="12" rx="2" fill="#e3e9f1"/><rect class="grow" style="animation-delay:0.90s" x="178.4" y="651.6" width="8.6" height="12" rx="2" fill="#4d7c0f" filter="url(#glowsml)"/><text x="568" y="664" font-size="20" text-anchor="end" class="d">2.8%</text>
+<text x="32" y="712" font-size="20" class="d" letter-spacing="1">FEATURED</text>
+<g class="rise" style="animation-delay:0.30s">
+<rect x="32" y="728" width="536" height="192" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="32" y="728" width="4" height="192" rx="2" fill="#0e7490"/>
+<path d="M38 744V734H48M552 734H562V744M562 904.4V914.4H552M48 914.4H38V904.4" fill="none" stroke="#0e7490" stroke-width="1.5" stroke-opacity="0.8" stroke-linecap="square"/>
+<text x="54" y="774" font-size="22"><tspan class="m b">▸</tspan> <tspan class="t b">evidence-judge</tspan></text>
+<text x="54" y="814" font-size="20" class="d">Grade browser-agent runs by checking</text><text x="54" y="844" font-size="20" class="d">every claim against recorded evidence:</text><text x="54" y="874" font-size="20" class="d">network, page state, screenshots.</text>
+<text x="54" y="904" font-size="20" class="c">Python · last push 2026-10-28</text>
+</g>
+<text x="32" y="976" font-size="20" class="d"><tspan class="g pulse">●</tspan> SYNC 2026-11-01 11:56 UTC</text>
+
+<rect width="600" height="1002" fill="url(#vigsml)"/>
+
+</g>
+<rect x="1" y="1" width="598" height="1000" rx="14" fill="none" stroke="#0e7490" stroke-opacity="0.28"/>
+<path d="M10 32V10H32M568 10H590V32M590 970V992H568M32 992H10V970" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-opacity="1" stroke-linecap="square"/>
+</svg>

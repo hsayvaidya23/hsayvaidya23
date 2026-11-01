@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 828" width="100%" role="img" aria-labelledby="timl deml">
+<title id="timl">Mission log: selected work</title>
+<desc id="deml">REAL-CHROME BROWSER AGENTS: Reliable on bot-protected portals. ~20 → 6–8 min, manual workflow, end to end. RPA INTO LIVE ERPS: Bots that write into live ERPs. −52% latency, event-driven waits instead of fixed sleeps. INCIDENTS → ARCHITECTURE: Idempotent writes to live systems. 0 duplicates, 240 of 240 runs with zero drift after the fix. DETERMINISTIC CORE: Deterministic first, LLM fallback. 420+ tests, guarding the deterministic resolution engine. SHADOW-FIRST AUTONOMY: Confidence gates and daily caps. 0 unsafe sends, shadow mode decides like prod, by design it can't send. MULTI-TENANT AI PLATFORM: LLM pipeline, bots, dashboard, K8s. 10 clients, on one platform, built end to end as first engineer. Also shipped: AI Podcast Clipper, Farming Goat (5,000+ users).</desc>
+<style>
+svg,text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+text{white-space:pre}
+.t{fill:#0b1220}.d{fill:#45505f}.c{fill:#0e7490}.m{fill:#a21caf}.g{fill:#4d7c0f}
+.b{font-weight:700}
+.static{display:none}
+.scan{animation:scan 7s linear infinite}
+.blink{animation:blink 1.1s steps(1) infinite}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.rise{animation:rise .7s ease-out both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) both}
+.growy{transform-box:fill-box;transform-origin:center bottom;animation:growy 1.2s cubic-bezier(.2,.8,.2,1) both}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 16s linear infinite reverse}
+.glc{animation:glc 5.5s steps(1) infinite}
+.glm{animation:glm 5.5s steps(1) infinite}
+.gls{animation:gls 5.5s steps(1) infinite}
+@keyframes scan{from{transform:translateY(-24px)}to{transform:translateY(828px)}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes rise{from{transform:translateY(10px)}to{transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes glc{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(-5px,1px)}91%{opacity:.85;transform:translate(4px,-1px)}93%{opacity:.85;transform:translate(-2px,0)}95%{opacity:0}}
+@keyframes glm{0%,88%,100%{opacity:0;transform:none}89%{opacity:.85;transform:translate(5px,-1px)}91%{opacity:.85;transform:translate(-4px,2px)}93%{opacity:.85;transform:translate(3px,0)}95%{opacity:0}}
+@keyframes gls{0%,90%,100%{opacity:0;transform:none}90.5%{opacity:1;transform:translateX(14px)}92%{opacity:1;transform:translateX(-9px)}93.5%{opacity:0}}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.typed,.scanbar{display:none}
+.static{display:inline}
+}
+</style>
+<defs>
+<pattern id="gridml" width="24" height="24" patternUnits="userSpaceOnUse">
+<path d="M24 0H0V24" fill="none" stroke="#0e7490" stroke-opacity="0.07" stroke-width="1"/>
+</pattern>
+<pattern id="linesml" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#0e7490" fill-opacity="0.035"/>
+</pattern>
+<linearGradient id="scanml" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#0e7490" stop-opacity="0"/>
+<stop offset="1" stop-color="#0e7490" stop-opacity="0.04"/>
+</linearGradient>
+<radialGradient id="vigml" cx="50%" cy="45%" r="75%">
+<stop offset="0.6" stop-color="#f5f7fb" stop-opacity="0"/>
+<stop offset="1" stop-color="#f5f7fb" stop-opacity="0.65"/>
+</radialGradient>
+<filter id="glowml" x="-20%" y="-40%" width="140%" height="180%">
+<feGaussianBlur stdDeviation="3.2" result="b"/>
+<feComponentTransfer in="b" result="bb"><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+<feMerge><feMergeNode in="bb"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="frameml"><rect x="1" y="1" width="1198" height="826" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frameml)">
+<rect width="1200" height="828" fill="#f5f7fb"/>
+<rect width="1200" height="828" fill="url(#gridml)"/>
+<rect width="1200" height="828" fill="url(#linesml)"/>
+
+<text x="40" y="52" font-size="18" class="c b" letter-spacing="2">◢ MISSION LOG <tspan class="m">//</tspan> <tspan class="t">SELECTED WORK</tspan></text>
+<text x="1160" y="52" font-size="15" text-anchor="end" class="d" letter-spacing="1">IN PRODUCTION <tspan class="g b">2025 → NOW</tspan></text>
+<g class="rise" style="animation-delay:0.15s">
+<rect x="40" y="78" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="40" y="78" width="4" height="208" rx="2" fill="#0e7490"/>
+<path d="M46 94V84H56M576 84H586V94M586 270V280H576M56 280H46V270" fill="none" stroke="#0e7490" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="62" y="110" font-size="15" class="m b" letter-spacing="1">M-01</text>
+<text x="570" y="110" font-size="15" text-anchor="end" class="g b">BROWSER-USE · AZURE LLMS</text>
+<text x="62" y="142" font-size="20" class="t b">REAL-CHROME BROWSER AGENTS</text>
+<text x="62" y="172" font-size="18" class="t" fill-opacity="0.85">Reliable on bot-protected portals</text>
+<text x="62" y="220" font-size="34" class="c b" filter="url(#glowml)">~20 → 6–8 min</text>
+<text x="62" y="246" font-size="15" class="d">manual workflow, end to end</text>
+</g><g class="rise" style="animation-delay:0.25s">
+<rect x="608" y="78" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="608" y="78" width="4" height="208" rx="2" fill="#a21caf"/>
+<path d="M614 94V84H624M1144 84H1154V94M1154 270V280H1144M624 280H614V270" fill="none" stroke="#a21caf" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="630" y="110" font-size="15" class="m b" letter-spacing="1">M-02</text>
+<text x="1138" y="110" font-size="15" text-anchor="end" class="g b">2FA/TOTP · WATCHDOGS</text>
+<text x="630" y="142" font-size="20" class="t b">RPA INTO LIVE ERPS</text>
+<text x="630" y="172" font-size="18" class="t" fill-opacity="0.85">Bots that write into live ERPs</text>
+<text x="630" y="220" font-size="34" class="m b" filter="url(#glowml)">−52% latency</text>
+<text x="630" y="246" font-size="15" class="d">event-driven waits instead of fixed sleeps</text>
+</g><g class="rise" style="animation-delay:0.35s">
+<rect x="40" y="302" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="40" y="302" width="4" height="208" rx="2" fill="#4d7c0f"/>
+<path d="M46 318V308H56M576 308H586V318M586 494V504H576M56 504H46V494" fill="none" stroke="#4d7c0f" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="62" y="334" font-size="15" class="m b" letter-spacing="1">M-03</text>
+<text x="570" y="334" font-size="15" text-anchor="end" class="g b">IDEMPOTENCY</text>
+<text x="62" y="366" font-size="20" class="t b">INCIDENTS → ARCHITECTURE</text>
+<text x="62" y="396" font-size="18" class="t" fill-opacity="0.85">Idempotent writes to live systems</text>
+<text x="62" y="444" font-size="34" class="g b" filter="url(#glowml)">0 duplicates</text>
+<text x="62" y="470" font-size="15" class="d">240 of 240 runs with zero drift after the fix</text>
+</g><g class="rise" style="animation-delay:0.45s">
+<rect x="608" y="302" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="608" y="302" width="4" height="208" rx="2" fill="#0e7490"/>
+<path d="M614 318V308H624M1144 308H1154V318M1154 494V504H1144M624 504H614V494" fill="none" stroke="#0e7490" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="630" y="334" font-size="15" class="m b" letter-spacing="1">M-04</text>
+<text x="1138" y="334" font-size="15" text-anchor="end" class="g b">RESOLUTION ENGINE</text>
+<text x="630" y="366" font-size="20" class="t b">DETERMINISTIC CORE</text>
+<text x="630" y="396" font-size="18" class="t" fill-opacity="0.85">Deterministic first, LLM fallback</text>
+<text x="630" y="444" font-size="34" class="c b" filter="url(#glowml)">420+ tests</text>
+<text x="630" y="470" font-size="15" class="d">guarding the deterministic resolution engine</text>
+</g><g class="rise" style="animation-delay:0.55s">
+<rect x="40" y="526" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="40" y="526" width="4" height="208" rx="2" fill="#a21caf"/>
+<path d="M46 542V532H56M576 532H586V542M586 718V728H576M56 728H46V718" fill="none" stroke="#a21caf" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="62" y="558" font-size="15" class="m b" letter-spacing="1">M-05</text>
+<text x="570" y="558" font-size="15" text-anchor="end" class="g b">CONFIDENCE GATES</text>
+<text x="62" y="590" font-size="20" class="t b">SHADOW-FIRST AUTONOMY</text>
+<text x="62" y="620" font-size="18" class="t" fill-opacity="0.85">Confidence gates and daily caps</text>
+<text x="62" y="668" font-size="34" class="m b" filter="url(#glowml)">0 unsafe sends</text>
+<text x="62" y="694" font-size="15" class="d">shadow mode decides like prod, by design it can't send</text>
+</g><g class="rise" style="animation-delay:0.65s">
+<rect x="608" y="526" width="552" height="208" rx="8" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<rect x="608" y="526" width="4" height="208" rx="2" fill="#4d7c0f"/>
+<path d="M614 542V532H624M1144 532H1154V542M1154 718V728H1144M624 728H614V718" fill="none" stroke="#4d7c0f" stroke-width="1.5" stroke-opacity="0.7" stroke-linecap="square"/>
+<text x="630" y="558" font-size="15" class="m b" letter-spacing="1">M-06</text>
+<text x="1138" y="558" font-size="15" text-anchor="end" class="g b">AZURE AKS · TERRAFORM</text>
+<text x="630" y="590" font-size="20" class="t b">MULTI-TENANT AI PLATFORM</text>
+<text x="630" y="620" font-size="18" class="t" fill-opacity="0.85">LLM pipeline, bots, dashboard, K8s</text>
+<text x="630" y="668" font-size="34" class="g b" filter="url(#glowml)">10 clients</text>
+<text x="630" y="694" font-size="15" class="d">on one platform, built end to end as first engineer</text>
+</g>
+<g class="rise" style="animation-delay:.8s">
+<rect x="40" y="750" width="1120" height="50" rx="6" fill="#ffffff" fill-opacity="0.85" stroke="#d5dde8"/>
+<text x="60" y="782" font-size="18"><tspan class="g b">ALSO SHIPPED ▸</tspan> <tspan class="t">AI Podcast Clipper · Farming Goat (5,000+ users)</tspan></text>
+</g>
+
+<rect width="1200" height="828" fill="url(#vigml)"/>
+
+</g>
+<rect x="1" y="1" width="1198" height="826" rx="14" fill="none" stroke="#0e7490" stroke-opacity="0.28"/>
+<path d="M10 32V10H32M1168 10H1190V32M1190 796V818H1168M32 818H10V796" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-opacity="1" stroke-linecap="square"/>
+</svg>

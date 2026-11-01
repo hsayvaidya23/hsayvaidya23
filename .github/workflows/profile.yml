@@ -1,0 +1,44 @@
+name: profile
+
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - name: Render HUD SVGs
+        run: python3 scripts/render.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit if data changed
+        run: |
+          git add README.md assets
+          if git diff --cached --quiet; then
+            echo "telemetry unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile telemetry"
+          git pull --rebase --autostash
+          git push
+
+      - name: Keep the schedule alive
+        run: gh api --method PUT "repos/${{ github.repository }}/actions/workflows/profile.yml/enable"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
