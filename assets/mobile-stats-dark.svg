@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1002" width="100%" role="img" aria-labelledby="tismd desmd">
 <title id="tismd">GitHub telemetry</title>
-<desc id="desmd">Last 12 months: 826 commits, 63 merged pull requests, 94 issues filed. Top languages: Python 60%, TypeScript 15%, JavaScript 10%, HTML 7%, CSS 4%, C++ 3%. Featured: evidence-judge (Python · last push 2026-10-28). Synced 2026-11-01 12:18 UTC.</desc>
+<desc id="desmd">Last 12 months: 826 commits, 63 merged pull requests, 94 issues filed. Top languages: Python 60%, TypeScript 15%, JavaScript 10%, HTML 7%, CSS 4%, C++ 3%. Featured: evidence-judge (Python · last push 2026-11-04). Synced 2026-11-05 01:36 UTC.</desc>
 <style>
 svg,text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 text{white-space:pre}
@@ -88,9 +88,9 @@ text{white-space:pre}
 <path d="M38 744V734H48M552 734H562V744M562 904.4V914.4H552M48 914.4H38V904.4" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.8" stroke-linecap="square"/>
 <text x="54" y="774" font-size="22"><tspan class="m b">▸</tspan> <tspan class="t b">evidence-judge</tspan></text>
 <text x="54" y="814" font-size="20" class="d">Grade browser-agent runs by checking</text><text x="54" y="844" font-size="20" class="d">every claim against recorded evidence:</text><text x="54" y="874" font-size="20" class="d">network, page state, screenshots.</text>
-<text x="54" y="904" font-size="20" class="c">Python · last push 2026-10-28</text>
+<text x="54" y="904" font-size="20" class="c">Python · last push 2026-11-04</text>
 </g>
-<text x="32" y="976" font-size="20" class="d"><tspan class="g pulse">●</tspan> SYNC 2026-11-01 12:18 UTC</text>
+<text x="32" y="976" font-size="20" class="d"><tspan class="g pulse">●</tspan> SYNC 2026-11-05 01:36 UTC</text>
 
 <rect width="600" height="1002" fill="url(#vigsmd)"/>
 
